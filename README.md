@@ -39,8 +39,5 @@ TODO
 # Related Repository
 https://github.com/andrewekhalel/sewar
 
-# References
-TODO
-
 # Contact
 Please contact zhengsh@kean.edu for any questions. You can also open an issue in this Github repository
