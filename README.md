@@ -5,11 +5,11 @@ Up till now (2021.9.22), we support the implementation of reference metrics incl
 
 Note: For the reference metrics, all the predicted images and the groundtruth should be in png format. However, you can change the code in `ref.py` to address that limitation. 
 
-# Prerequisites
-Python3
-Opencv-python
-Scikit-image
-Numpy
+# Requirements
+- Python3
+- Opencv-python
+- Scikit-image
+- Numpy
 
 # Quick Run
 1. Reference Metrics
