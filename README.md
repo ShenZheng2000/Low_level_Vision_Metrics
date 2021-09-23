@@ -14,15 +14,15 @@ Note: For the reference metrics, all the predicted images and the groundtruth sh
 # Quick Run
 1. Reference Metrics
 
-To obtain the PSNR, SSIM and MSE score , run in terminal
-```
-python ref.py --test_dir1 path_to_pred_image --test_dir2 path_to_gt_image
+  To obtain the PSNR, SSIM and MSE score , run in terminal
+  ```
+  python ref.py --test_dir1 path_to_pred_image --test_dir2 path_to_gt_image
 ```
 
-For example, if your predicted image is at folder `/image/pred/`, and the corresponding groundtruth is at folder `/image/gt/`, you should run
-```
-python ref.py --test_dir1 /image/pred/ --test_dir2 /image/gt/
-```
+  For example, if your predicted image is at folder `/image/pred/`, and the corresponding groundtruth is at folder `/image/gt/`, you should   run
+  ```
+  python ref.py --test_dir1 /image/pred/ --test_dir2 /image/gt/
+  ```
 
 2. Non-reference Metrics
 
