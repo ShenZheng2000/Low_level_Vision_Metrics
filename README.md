@@ -32,9 +32,8 @@ python brisque.py -test_dir path_to_pred_image
 ```
 
 The calculation of UNIQUE score is more complicated. 
-First, go to this [website](https://github.com/zwx8981/UNIQUE) and download the repository and the weights according to the instructions.
+Please go to this [website](https://github.com/zwx8981/UNIQUE) and download the repository and the weights according to the instructions.
 
-TODO
 
 # Related Repository
 https://github.com/andrewekhalel/sewar
