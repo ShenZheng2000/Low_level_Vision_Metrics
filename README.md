@@ -1,9 +1,9 @@
 # Low_level_Vision_Metrics
 This is a Python implementation of various low-level vision metrics. 
 
-Up till now (2021.9.22), we support the implementation of reference metrics including PSNR， SSIM and MSE, and no-reference metrics including UNIQUE and BRISQUE.
+Up till now (2021.9.22), we support the implementation of reference metrics including PSN, SSIM and MSE, and no-reference metrics including UNIQUE and BRISQUE.
 
-Note: For the reference metrics, all the predicted images and the groundtruth should be in png format. However, you can change the code in `ref.py` to address that limitation. 
+Note: For the reference metrics, all the predicted images and the groundtruth should be in `.png` format. However, you can change the code in `ref.py` to copy with images of other formats.
 
 # Requirements
 - Python3
